@@ -4,10 +4,6 @@ import styles from './index.styles'
 
 export default class BalancesScreen extends Component {
 
-    static navigationOptions = {
-      tabBarLabel: 'Monitor'
-    }
-
   render() {
     return(
         <View style={styles.container}>
