@@ -44,8 +44,4 @@ const TabBarNavigation = TabNavigator({
     }
 })
 
-TabBarNavigation.navigationOptions = {
-  title: 'BTCWatch'
-}
-
 export default TabBarNavigation
