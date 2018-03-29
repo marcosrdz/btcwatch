@@ -7,7 +7,7 @@ export default class SettingsScreen extends Component {
 
   render() {
     return(
-      <Container>
+      <Container style={styles.container}>
         <Content>
           <Separator bordered>
             <Text>UPDATE INFORMATION</Text>
